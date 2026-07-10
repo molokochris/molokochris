@@ -80,12 +80,12 @@ Repos: ......... 49 | Stars: ....... 20
 Followers: ..... 13 | Following: ... 19
 
 Skills ─────────────────
-JavaScript / TS  ████████░░  80%
-React / RN       █████████░  90%
-Python           ███████░░░  70%
-Firebase/Supabase████████░░  80%
-UI/UX Design     ██████░░░░  60%
-C                ████░░░░░░  40%
+JavaScript / TS   ████████░░  80%
+React / RN        █████████░  90%
+Python            ███████░░░  70%
+Firebase/Supabase ████████░░  80%
+UI/UX Design      ██████░░░░  60%
+C                 ████░░░░░░  40%
 
 Note: several projects live in private repos while still in
 development — public work here is only part of the picture.
