@@ -1,5 +1,3 @@
-<img align="right" width="220" src="assets/photo.jpg" />
-
 ```
 molokochris@GitHub ------------------
 OS: ............ Win11 Pro / WSL2 Ubuntu
