@@ -26,12 +26,12 @@ GitHub Stats --------------------
 Repos: 49  |  Stars: 20
 Followers: 13  |  Following: 19
 Skills ---------------------------
-JS / TS     ########--  80%
-React / RN  #########-  90%
-Python      #######---  70%
-Firebase/Sb ########--  80%
-UI/UX       ######----  60%
-C           ####------  40%
+JS / TS     ████████░░  80%
+React / RN  █████████░  90%
+Python      ███████░░░  70%
+Firebase/Sb ████████░░  80%
+UI/UX       ██████░░░░  60%
+C           ████░░░░░░  40%
 ```
 
 ### 🚀 Currently Building
