@@ -13,8 +13,7 @@ Database: ....... Firebase, Supabase
 Testing: ........ Jest
 Design: ......... Figma, UI/UX, wireframes,
                    usability testing, Dribbble
-Hobbies: ........ Chess, church, family,
-                   community, agriculture
+Hobbies: ........ Chess
 
 Contact ------------------------
 Location: ....... South Africa
