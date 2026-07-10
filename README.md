@@ -1,3 +1,5 @@
+<img align="right" width="220" src="assets/photo.jpg" />
+
 ```
 molokochris@GitHub ------------------
 OS: ............ Win11 Pro / WSL2 Ubuntu
@@ -15,6 +17,7 @@ Design: ......... Figma, UI/UX, wireframes,
                    usability testing, Dribbble
 Hobbies: ........ Chess, church, family,
                    community, agriculture
+
 Contact ------------------------
 Location: ....... South Africa
 Portfolio: ...... heapspace.dev (soon)
@@ -22,9 +25,11 @@ GitHub: ......... github.com/molokochris
 LinkedIn: ....... /in/molokochris
 Dribbble: ....... /molokochris
 X: .............. @molokochrisp
+
 GitHub Stats --------------------
 Repos: 49  |  Stars: 20
 Followers: 13  |  Following: 19
+
 Skills ---------------------------
 JS / TS     ████████░░  80%
 React / RN  █████████░  90%
@@ -34,7 +39,9 @@ UI/UX       ██████░░░░  60%
 C           ████░░░░░░  40%
 ```
 
-### 🚀 Currently Building
+<br clear="right"/>
+
+### Currently Building
 - 🎤 A live, host-paced quiz & presentation platform, syncing state in real time across host and participant devices *(private repo, in dev)*
 - 🧩 A word-puzzle mobile game with daily deterministic riddle-style challenges *(private repo, in dev)*
 - 🛒 A scraper-driven price-tracking pipeline for local retail data *(private repo, in dev)*
