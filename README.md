@@ -1,4 +1,6 @@
-<div align="center">
+<table>
+<tr>
+<td>
 
 ```
               .:*@@@@@@@@@@@@@@@@@@@@@@@@@@@#:    
@@ -36,56 +38,64 @@
         :*+:+=+***#%*+==----:----===+*##*+==--=:  
 ```
 
+</td>
+<td valign="top">
+
 ```
-molokochris@GitHub ------------------
+molokochris@GitHub ─────────────────
 
-OS: ............ Win11 Pro / WSL2 Ubuntu
-IDEs: ........... VSCode, Antigravity, Vim
+OS: ........................ Windows 11 Pro, WSL2 Ubuntu 24.04
+Kernel: ..................... WSL2 / Ubuntu 24.04
+IDEs: ........................ VS Code, Antigravity, Vim, Neovim
 
-Lang.Progress: .. C -> JS -> Python
-Lang.Primary: ... JS, TS, Python
-Lang.Computer: .. HTML, CSS, SQL, JSON
-Lang.Real: ...... English, Sepedi
+Languages.Progression: ....... C → JavaScript → Python
+Languages.Primary: ........... JavaScript, TypeScript, Python
+Languages.Computer: .......... HTML, CSS, SQL, JSON
+Languages.Real: .............. English, Sepedi
 
-Frontend: ....... React, RN, Expo, Next.js,
-                   Vite, Tailwind, Zustand
-Backend: ........ Python, FastAPI
-Database: ....... Firebase, Supabase
-Testing: ........ Jest
-Design: ......... Figma, UI/UX, wireframes,
-                   usability testing,
-                   Dribbble
+Stack.Frontend: ............... React, React Native, Expo, Next.js,
+                                 Vite, Tailwind CSS, Zustand
+Stack.Backend: ................ Python, FastAPI
+Stack.Database: ............... Firebase (Firestore, Auth), Supabase
+Stack.Testing: ................ Jest
+Stack.Design: .................. Figma, UI/UX design (wireframing,
+                                 personas, usability testing),
+                                 posts design work on Dribbble
 
-Hobbies: ........ Chess, church, family,
-                   community, agriculture
+Hobbies.Software: ............. Building React Native / Expo apps,
+                                 quiz & learning platforms, chess
+Hobbies.Life: .................. Church, family & community, markets
+                                 & agriculture
 
-Contact ------------------------
-Location: ....... South Africa
-Portfolio: ...... heapspace.dev (soon)
-GitHub: ......... github.com/molokochris
-LinkedIn: ....... /in/molokochris
-Dribbble: ....... /molokochris
-X: .............. @molokochrisp
+Contact ─────────────────
+Location: ...................... South Africa
+Portfolio: ...................... heapspace.dev (in progress)
+GitHub: ......................... github.com/molokochris
+LinkedIn: ....................... linkedin.com/in/molokochris
+Dribbble: ....................... dribbble.com/molokochris
+X: .............................. @molokochrisp
 
-GitHub Stats --------------------
-Repos: 49  |  Stars: 20
-Followers: 13  |  Following: 19
+GitHub Stats ─────────────────
+Repos: ......... 49 | Stars: ....... 20
+Followers: ..... 13 | Following: ... 19
 
-Skills ---------------------------
-JS / TS     ########--  80%
-React / RN  #########-  90%
-Python      #######---  70%
-Firebase/Sb ########--  80%
-UI/UX       ######----  60%
-C           ####------  40%
+Skills ─────────────────
+JavaScript / TS  ████████░░  80%
+React / RN       █████████░  90%
+Python           ███████░░░  70%
+Firebase/Supabase████████░░  80%
+UI/UX Design     ██████░░░░  60%
+C                ████░░░░░░  40%
 
-Note: some projects are private repos --
-      this is only part of the picture.
+Note: several projects live in private repos while still in
+development — public work here is only part of the picture.
 ```
 
-</div>
+</td>
+</tr>
+</table>
 
-### 🚀 Currently Building
+### Currently Building
 - 🎤 A live, host-paced quiz & presentation platform, syncing state in real time across host and participant devices *(private repo, in dev)*
 - 🧩 A word-puzzle mobile game with daily deterministic riddle-style challenges *(private repo, in dev)*
 - 🛒 A scraper-driven price-tracking pipeline for local retail data *(private repo, in dev)*
