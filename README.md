@@ -1,7 +1,7 @@
 ```
 molokochris@GitHub ------------------
 OS: ............ Win11 Pro / WSL2 Ubuntu
-IDEs: ........... VSCode, Antigravity, Vim
+IDEs: ........... Vim, VSCode, Antigravity
 Lang.Progress: .. C -> JS -> Python
 Lang.Primary: ... JS, TS, Python
 Lang.Computer: .. HTML, CSS, SQL, JSON
