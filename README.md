@@ -39,7 +39,7 @@ C           ████░░░░░░  40%
 <br clear="right"/>
 
 ### Currently Building
-- 🎤 A live, host-paced quiz & presentation platform, syncing state in real time across host and participant devices *(private repo, in dev):[Tambua](https://tambua-web.vercel.app)*
+- 🎤 A live, host-paced quiz & presentation platform, syncing state in real time across host and participant devices *(private repo, in dev) - [Tambua](https://tambua-web.vercel.app)*
 - 🧩 A word-puzzle mobile game with daily deterministic riddle-style challenges *(private repo, in dev)*
 - 🛒 A scraper-driven price-tracking pipeline for local retail data *(private repo, in dev)*
 - 🔌 A small backend API service built around QR code generation & parsing *(private repo, exploratory)*
