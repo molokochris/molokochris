@@ -39,6 +39,7 @@ C           ████░░░░░░  40%
 <br clear="right"/>
 
 ### Currently Building
+- 🌐 A desktop app project exploring browser UX and performance *(private repo, in dev)*
 - 🎤 [Tambua](https://tambua-web.vercel.app) — a live, host-paced quiz platform. Join via QR, answer in real time, host controls the pace. Built solo end-to-end: React + Supabase (Postgres + Realtime), deployed on Vercel. *(private repo)*
 - 🧩 A word-puzzle mobile game with daily deterministic riddle-style challenges *(private repo, in dev)*
 - 🛒 A scraper-driven price-tracking pipeline for local retail data *(private repo, in dev)*
