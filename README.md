@@ -45,7 +45,7 @@ C           ████░░░░░░  40%
 - 🛒 A scraper-driven price-tracking pipeline for local retail data *(private repo, in dev)*
 - 🔌 A small backend API service built around QR code generation & parsing *(private repo, exploratory)*
 - 🗂️ An Obsidian plugin that snapshots and restores your vault via cloud storage, git-style *(private repo, in dev)*
-- 🏃 A habit tracker in closed testing on Google Play, with its own landing page and infra
+- 🏃 A habit tracker in closed testing on Google Play, with its own landing page and infra - [Dailystride](https://dailystride.app)
 - 🎨 UI/UX design work for upcoming products *(wireframes, prototypes, usability testing)*
 
 ### 🔭 Exploring / Earlier Stage
