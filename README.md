@@ -40,9 +40,9 @@ C           ████░░░░░░  40%
 
 ### Currently Building
 - 🌐 A desktop app project exploring browser UX and performance *(private repo, in dev)*
-- 🎤 [Tambua](https://tambua-web.vercel.app) — a live, host-paced quiz platform. Join via QR, answer in real time, host controls the pace. Built solo end-to-end, deployed on Vercel. *(private repo)*
+- 🎤 [Tambua](https://tambua-web.vercel.app) - a live, host-paced quiz platform. Join via QR, answer in real time, host controls the pace. Built solo end-to-end, deployed on Vercel. *(private repo)*
 - 🧩 A word-puzzle mobile game with daily deterministic riddle-style challenges *(private repo, in dev)*
-- 🛒 A scraper-driven price-tracking pipeline for local retail data [isPricey](https://ispricey.com)
+- 🛒 A scraper-driven price-tracking pipeline for local retail data - [ISPRICEY](https://ispricey.com)
 - 🔌 A small backend API service built around QR code generation & parsing *(private repo, exploratory)*
 - 🗂️ An Obsidian plugin that snapshots and restores your vault via cloud storage, git-style *(private repo, in dev)*
 - 🏃 A habit tracker in closed testing on Google Play, with its own landing page and infra - [Dailystride](https://dailystride.app)
