@@ -1,60 +1,52 @@
+# Hi, I'm Moloko Chris Poopedi
+
+**Full-stack and mobile developer in South Africa. I design, build and ship products solo, end to end.**
+
+Available for freelance web and mobile projects · [molokochrisp742@gmail.com](mailto:molokochrisp742@gmail.com)
+
+---
+
+## Live projects
+
+- **[Tambua](https://tambua-web.vercel.app)**: a live, host-paced quiz platform. Players join via QR code, answer in real time, and the host controls the pace. Built solo end to end and deployed on Vercel.
+- **[IsPricey](https://ispricey.com)**: a price aggregator for South African retail stores that tracks their prices.
+- **[Dailystride](https://dailystride.app)**: a habit tracker in closed testing on Google Play, with its own landing page and infrastructure.
+
+## Team build
+
+**[Sound & Motion](https://sound-and-motion.onrender.com)**: built in 4 hours, fully remote, with colleagues I had never met, for a BBD immersion day challenge. One laptop is the arena, phones are the controllers. [Source](https://github.com/molokochris/sound_and_motion).
+
+## In development
+
+A browser UX and performance desktop app · a daily word-puzzle mobile game · an Obsidian plugin that snapshots and restores your vault via cloud storage · a QR code generation and parsing API.
+
+I also do UI/UX work: wireframes, prototypes and usability testing. See my [Dribbble](https://dribbble.com/molokochris).
+
+---
+
+## Stack
+
 ```
 molokochris@GitHub ------------------
-OS: ............ Win11 Pro / WSL2 Ubuntu
-IDEs: ........... Vim, VSCode, Antigravity
-Lang.Progress: .. C -> JS -> Python
 Lang.Primary: ... JS, TS, Python
-Lang.Computer: .. HTML, CSS, SQL, JSON
-Lang.Real: ...... English, Sepedi
-Frontend: ....... React, RN, Expo, Next.js,
-                   Vite, Tailwind, Zustand
+Lang.Also: ...... C, HTML, CSS, SQL
+Web: ............ React, Next.js, Vite, Tailwind
+Mobile: ......... React Native, Expo
+State: .......... Zustand, Redux
 Backend: ........ Python, FastAPI
 Database: ....... Firebase, Supabase
 Testing: ........ Jest
-Design: ......... Figma, UI/UX, wireframes,
-                   usability testing, Dribbble
-Hobbies: ........ Chess
-
-Contact ------------------------
-Location: ....... South Africa
-Portfolio: ...... heapspace.dev (soon)
-GitHub: ......... github.com/molokochris
-LinkedIn: ....... /in/molokochris
-Dribbble: ....... /molokochris
-X: .............. @molokochrisp
-
-GitHub Stats --------------------
-Repos: 49  |  Stars: 20
-Followers: 13  |  Following: 19
-
-Skills ---------------------------
-JS / TS     ████████░░  80%
-React / RN  █████████░  90%
-Python      ███████░░░  70%
-Firebase/Sb ████████░░  80%
-UI/UX       ██████░░░░  60%
-C           ████░░░░░░  40%
+Design: ......... Figma, wireframing, usability testing
+Env: ............ Ubuntu Linux, Win11 / WSL2, Vim, VSCode
+Spoken: ......... English, Sepedi
+Off-screen: ..... Chess
 ```
 
-<br clear="right"/>
+---
 
-### Currently Building
-- 🌐 A desktop app project exploring browser UX and performance *(private repo, in dev)*
-- 🎤 [Tambua](https://tambua-web.vercel.app) - a live, host-paced quiz platform. Join via QR, answer in real time, host controls the pace. Built solo end-to-end, deployed on Vercel. *(private repo)*
-- 🧩 A word-puzzle mobile game with daily deterministic riddle-style challenges *(private repo, in dev)*
-- 🛒 A scraper-driven price-tracking pipeline for local retail data - [ISPRICEY](https://ispricey.com)
-- 🔌 A small backend API service built around QR code generation & parsing *(private repo, exploratory)*
-- 🗂️ An Obsidian plugin that snapshots and restores your vault via cloud storage, git-style *(private repo, in dev)*
-- 🏃 A habit tracker in closed testing on Google Play, with its own landing page and infra - [Dailystride](https://dailystride.app)
-- 🎨 UI/UX design work for upcoming products *(wireframes, prototypes, usability testing)*
+## Contact
 
-### 🔭 Exploring / Earlier Stage
-- 🚗 A vehicle history-check platform for the South African market
-- 📚 A digital library concept researching public-domain access for underserved regions
-- 🧠 A concept-graph-based adaptive learning platform (spaced repetition)
-
-### Pinned
-- 🌿 [lucky-shrub-landscaping](https://github.com/molokochris/lucky-shrub-landscaping)
-- ▶️ [Youtube-Playlist-Downloader-CLI](https://github.com/molokochris/Youtube-Playlist-Downloader-CLI)
-- 🔗 [404notFound](https://github.com/molokochris/404notFound)
-- ⚡ [agile-final-project](https://github.com/molokochris/agile-final-project)
+- Email: [molokochrisp742@gmail.com](mailto:molokochrisp742@gmail.com)
+- LinkedIn: [in/molokochris](https://www.linkedin.com/in/molokochris)
+- Dribbble: [molokochris](https://dribbble.com/molokochris)
+- X: [@molokochrisp](https://twitter.com/molokochrisp)
