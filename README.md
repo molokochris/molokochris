@@ -9,7 +9,7 @@ Available for freelance web and mobile projects · [molokochrisp742@gmail.com](m
 ## Live projects
 
 - **[Tambua](https://tambua-web.vercel.app)**: a live, host-paced quiz platform. Players join via QR code, answer in real time, and the host controls the pace. Built solo end to end and deployed on Vercel.
-- **[IsPricey](https://ispricey.com)**: a price aggregator for South African retail stores that tracks their prices.
+- **[IsPricey](https://ispricey.com)**: a price aggregator for South African retail stores. It tracks their prices so you can tell a genuine discount from an inflated "was" price.
 - **[Dailystride](https://dailystride.app)**: a habit tracker in closed testing on Google Play, with its own landing page and infrastructure.
 
 ## Team build
