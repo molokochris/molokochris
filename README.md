@@ -1,6 +1,6 @@
 # Hi, I'm Moloko Chris Poopedi
 
-**Full-stack and mobile developer in South Africa. I design, build and ship products solo, end to end.**
+**Full-stack web and mobile developer in South Africa. I design, build and ship products solo, end to end.**
 
 Available for freelance web and mobile projects · [molokochrisp742@gmail.com](mailto:molokochrisp742@gmail.com)
 
